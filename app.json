@@ -1,0 +1,12 @@
+{
+  "name": "GoodFood",
+  "displayName": "GoodFood",
+  "expo": {
+    "name": "GoodFood",
+    "slug": "GoodFood",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
